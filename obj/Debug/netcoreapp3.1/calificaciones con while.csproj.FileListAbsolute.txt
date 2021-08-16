@@ -1,0 +1,13 @@
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\bin\Debug\netcoreapp3.1\calificaciones con while.exe
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\bin\Debug\netcoreapp3.1\calificaciones con while.deps.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\bin\Debug\netcoreapp3.1\calificaciones con while.runtimeconfig.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\bin\Debug\netcoreapp3.1\calificaciones con while.runtimeconfig.dev.json
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\bin\Debug\netcoreapp3.1\calificaciones con while.dll
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\bin\Debug\netcoreapp3.1\calificaciones con while.pdb
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\obj\Debug\netcoreapp3.1\calificaciones con while.csproj.AssemblyReference.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\obj\Debug\netcoreapp3.1\calificaciones con while.AssemblyInfoInputs.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\obj\Debug\netcoreapp3.1\calificaciones con while.AssemblyInfo.cs
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\obj\Debug\netcoreapp3.1\calificaciones con while.csproj.CoreCompileInputs.cache
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\obj\Debug\netcoreapp3.1\calificaciones con while.dll
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\obj\Debug\netcoreapp3.1\calificaciones con while.pdb
+C:\Users\Hanna Ximena\Documents\UTEL\1er cuatrimestre\Programación estructurada\actividades\calificaciones con while\obj\Debug\netcoreapp3.1\calificaciones con while.genruntimeconfig.cache

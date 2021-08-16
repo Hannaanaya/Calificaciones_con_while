@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "calificaciones con while/1.0.0": {
+        "runtime": {
+          "calificaciones con while.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "calificaciones con while/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
